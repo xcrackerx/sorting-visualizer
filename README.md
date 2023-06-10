@@ -4,7 +4,9 @@
 
 ## Responsive visualizer built using React for popular algorithms
 
-<a href="algorithm-sorting-visualizer.netlify.app/"><img src="visualizer.png" alt="cover" /></a>
+<img src="visualizer.png" alt="cover" /></a>
+
+### [Live Website](https://algorithm-sorting-visualizer.netlify.app/)
 
 ---
 
