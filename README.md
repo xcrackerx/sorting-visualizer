@@ -4,7 +4,7 @@
 
 ## Responsive visualizer built using React for popular algorithms
 
-<a href="https://github.com/sadanandpai/sorting-visualizer"><img src="visualizer.png" alt="cover" /></a>
+<a href="algorithm-sorting-visualizer.netlify.app/"><img src="visualizer.png" alt="cover" /></a>
 
 ---
 
